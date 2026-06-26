@@ -1,0 +1,54 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height:100vh;
+  background: url("IMG_4222.jpeg") no-repeat center center /cover;
+    font-family: "Work sans";
+}
+.container{
+    
+    width:550px;
+    height:450px;
+
+}
+
+div.heading{
+    border-radius: 10px;
+    background-color: papayawhip;
+    opacity:0.5;
+    font-family:"Tangerine",cursive;
+    font-size: 50px;
+    width:80%;
+    margin-left: 10%;
+    
+}
+.main{
+     width:100%;
+    height:300px;
+    background-color: pink ;
+    padding:50px,40px;
+    padding-top:50px;
+    border-radius:10px;
+    opacity:0.7;
+    
+
+}
+div.text{ 
+    font-size:30px;
+    font-family:"Work sans";
+    
+}
+div.author{
+   padding-top:20px;
+    font-size:26px;
+    color:black;
+    font-family:"Work sans";
+}
+
+.b1{
+   
+
+ border-radius: 30px;
+}
