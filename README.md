@@ -15,7 +15,3 @@ A simple web app that generates random quotes.
 - DOM manipulation
 - Event listeners
 - Working with JavaScript logic
-
-## How to run
-1. Open index.html in browser
-2. Click "Generate Quote" button
